@@ -34,7 +34,7 @@ title: "Random Forest Review"
 랜덤 포레스트는 트리의 수가 증가함에 따라 과적합 없이 일반화 오차가 안정화되며, 이는 대수의 법칙을 통해 설명된다. 트리의 수가 무한대로 증가할 때, 랜덤포레스트의 예측은 수렴하여 일반화 오차가 일정한 한계값에 도달하게 된다.
 
 $$
-\lim_{N \rightarrow \infin}P(\frac{1}{N}\sum_{i=1}^Nh_i(X)=Y)=P(h(X)=Y)
+\lim_{N \rightarrow \infty}P(\frac{1}{N}\sum_{i=1}^Nh_i(X)=Y)=P(h(X)=Y)
 $$
 
 - 여기서 $h_i(X)$는 i-번째 트리의 예측이며, $h(X)$는 랜덤 포레스트의 최종 예측을 의미한다.
