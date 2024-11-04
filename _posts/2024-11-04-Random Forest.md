@@ -1,6 +1,11 @@
 ---
-layout: single
+layout: page
 title: "Random Forest Review"
+description: "Random Forest 논문 리뷰"
+tage: [ML]
+comment: true
+published: true
+categories: ML
 ---
 
 # Random Forest Review
