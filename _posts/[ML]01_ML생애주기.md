@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "ML LIFE CYCLE"
-
 ---
 
 # ML 생애주기
