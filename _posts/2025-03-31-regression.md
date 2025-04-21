@@ -83,7 +83,7 @@ Repeat until convergence {
 
 단, 어떤 $\theta$를 선택하더라도, $X\theta$는 반드시 X의 Column Space에 존재해야 함.
 
-따라서 X의 Column Spacedp 존재하는 무수히 많은 점들 ($X\theta$)에 대해서도 Vector y와 가장 가까운 지점에 위치한 point를 생성하는 vector $\hat{y}$를 찾는 문제로 귀결
+따라서 X의 Column Space에 존재하는 무수히 많은 점들 ($X\theta$)에 대해서도 Vector y와 가장 가까운 지점에 위치한 point를 생성하는 vector $\hat{y}$를 찾는 문제로 귀결
 
 
 
