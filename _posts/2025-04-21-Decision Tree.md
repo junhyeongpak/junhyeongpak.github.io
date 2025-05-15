@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Decision Treet"
+title: "Decision Tree"
 
 ---
 
